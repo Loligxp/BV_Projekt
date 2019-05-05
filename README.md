@@ -7,6 +7,6 @@ This is a Big School Project in which we will develope an entire Business plan.
 
 
 Font:       *Times New Roman*               
-Headlines:  *16pt.*                 
-Chapters:   *14pt.*                 
-Text:       *12pt.*                
+Headlines:  *16pt. Fett*                 
+Chapters:   *14pt. Fett*                 
+Text:       *12pt. Normal*                
